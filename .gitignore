@@ -1,0 +1,5 @@
+*.pkl
+files/
+saved_results/
+.idea/
+__pycache__/
