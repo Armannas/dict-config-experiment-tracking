@@ -1,4 +1,4 @@
-# python dict based experiment tracking
+# python dictionary based experiment tracking
 Utilize Python dictionary-based configuration files for seamless execution and tracking of experiments. The benefit of using Python dictionaries, as opposed to yaml, json and the like, is that it allows direct inclusion of Python objects in your configuration. This eliminates the need for clumsy alias strings.
 
 # How to use
